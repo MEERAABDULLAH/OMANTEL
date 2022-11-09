@@ -2,3 +2,4 @@ class box{
 doubel main
 public void display 
 system.out.printin
+puplic static
